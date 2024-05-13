@@ -1,5 +1,7 @@
 # Applicants Application Assessment
 
+<img src="https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png" width="300">
+
 ![Data Cleaning](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png)
 
 This is an application assessment project :)
