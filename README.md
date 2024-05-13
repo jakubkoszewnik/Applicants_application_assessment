@@ -1,6 +1,6 @@
 # Applicants Application Assessment
 
-![Data Cleaning]([https://example.com/data_cleaning_image.jpg](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png?raw=true))
+![Data Cleaning](<img src="[https://img.icons8.com/color/120/000000/microsoft-excel-2019.png](https://example.com/data_cleaning_image.jpg](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png?raw=true)"/>)
 
 This is an application assessment project :)
 
