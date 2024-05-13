@@ -10,7 +10,7 @@ This is an application assessment project :)
   - Changing "NA" values in the "External Rating" column to 0,
   - Changing "NA" values in the "Education Value" column to "Average".
 
-![Scoring Criteria](https://example.com/scoring_criteria_image.jpg)](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/score.png)
+![Scoring Criteria](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/score.png)
 
 Next, the scoring criteria are as follows:
 - The score should be a number from 0 to 100.
