@@ -2,8 +2,6 @@
 
 <img src="https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png" width="300">
 
-![Data Cleaning](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/data-cleaning.png)
-
 This is an application assessment project :)
 
 * First, I successfully imported CSV files.
@@ -12,7 +10,7 @@ This is an application assessment project :)
   - Changing "NA" values in the "External Rating" column to 0,
   - Changing "NA" values in the "Education Value" column to "Average".
 
-![Scoring Criteria](https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/score.png)
+<img src="https://github.com/jakubkoszewnik/jakubkoszewnik/blob/main/score.png" width="300">
 
 Next, the scoring criteria are as follows:
 - The score should be a number from 0 to 100.
