@@ -5,8 +5,8 @@
 This is an application assessment project :)
 
 Libraries used in this project:
-# - Numpy
-# - Pandas
+- Numpy
+- Pandas
 
 * First, I successfully imported CSV files.
 * Then I cleaned the data by:
