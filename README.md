@@ -26,3 +26,6 @@ Next, the scoring criteria are as follows:
   - The 'Score' from the industries.csv table is also added to the score (ranging from 0 to 20 points).
   - If the 'External Rating' value is greater than or equal to 7, add 20 points to the score.
   - If the 'External Rating' value is less than or equal to 2, subtract 20 points from the score.
+
+# Results
+<img src="https://github.com/jakubkoszewnik/Applicants_application_assessment/blob/main/results.PNG" width="1200">
